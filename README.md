@@ -1,3 +1,6 @@
+# CLONAR PROYECTO LUEGO ESCRIBIR EN LA TERMINAL NPM INSTALL PARA INSTALAR TODAS LAS DEPENDENCIAS
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
